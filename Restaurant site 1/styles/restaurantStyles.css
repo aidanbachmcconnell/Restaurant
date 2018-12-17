@@ -1,0 +1,12 @@
+/*
+Name: Aidan McConnell
+Date Created: 12/14/2018
+Most recent revision:
+*/
+header, footer {
+	background-color: #5b7d87;
+	color: #fef9ff;
+	height: 100px;
+	text-align: center;
+	padding: 30px 10px 20px 10px;
+}
